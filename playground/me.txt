@@ -1,5 +1,0 @@
-{{#user}}
-Name: Ritu Rani
-Skills: HTML, CSS, JS, React.js
-Email: Ritusah8725@gmail.com
-{{/user}}
